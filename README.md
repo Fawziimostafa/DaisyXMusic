@@ -143,4 +143,4 @@ If you donlt like to play in linked channel:
  - Licensed under the terms of the [MIT License](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/Fawziimostafa/DaisyXMusic)
+## Made with ♥️ by [TeamFawzii](https://github.com/Fawziimostafa/DaisyXMusic)
